@@ -1,0 +1,354 @@
+{
+"data": [
+  {
+    "holiday": "New Year's Day",
+    "date": "1/1/2020",
+    "year": 2020,
+    "bank": "TRUE",
+    "onbserved_on": "1/1/2020"
+  },
+  {
+    "holiday": "Martin Luther King Jr. Day",
+    "date": "1/20/2020",
+    "year": 2020,
+    "bank": "TRUE",
+    "onbserved_on": "1/20/2020"
+  },
+  {
+    "holiday": "Presidents Day",
+    "date": "2/17/2020",
+    "year": 2020,
+    "bank": "TRUE",
+    "onbserved_on": "2/17/2020"
+  },
+  {
+    "holiday": "Memorial Day",
+    "date": "5/25/2020",
+    "year": 2020,
+    "bank": "TRUE",
+    "onbserved_on": "5/25/2020"
+  },
+  {
+    "holiday": "Independence Day",
+    "date": "7/4/2020",
+    "year": 2020,
+    "bank": "TRUE",
+    "onbserved_on": "7/3/2020"
+  },
+  {
+    "holiday": "Labor Day",
+    "date": "9/7/2020",
+    "year": 2020,
+    "bank": "TRUE",
+    "onbserved_on": "9/7/2020"
+  },
+  {
+    "holiday": "Columbus Day",
+    "date": "10/12/2020",
+    "year": 2020,
+    "bank": "TRUE",
+    "onbserved_on": "10/12/2020"
+  },
+  {
+    "holiday": "Veterans Day",
+    "date": "11/11/2020",
+    "year": 2020,
+    "bank": "TRUE",
+    "onbserved_on": "11/11/2020"
+  },
+  {
+    "holiday": "Thanksgiving Day",
+    "date": "11/23/2020",
+    "year": 2023,
+    "bank": "TRUE",
+    "onbserved_on": "11/23/2020"
+  },
+  {
+    "holiday": "Thanksgiving Day",
+    "date": "11/24/2020",
+    "year": 2022,
+    "bank": "TRUE",
+    "onbserved_on": "11/24/2020"
+  },
+  {
+    "holiday": "Thanksgiving Day",
+    "date": "11/25/2020",
+    "year": 2021,
+    "bank": "TRUE",
+    "onbserved_on": "11/25/2020"
+  },
+  {
+    "holiday": "Thanksgiving Day",
+    "date": "11/26/2020",
+    "year": 2020,
+    "bank": "TRUE",
+    "onbserved_on": "11/26/2020"
+  },
+  {
+    "holiday": "Thanksgiving Day",
+    "date": "11/28/2020",
+    "year": 2024,
+    "bank": "TRUE",
+    "onbserved_on": "11/28/2020"
+  },
+  {
+    "holiday": "Christmas Day",
+    "date": "12/25/2020",
+    "year": 2020,
+    "bank": "TRUE",
+    "onbserved_on": "12/25/2020"
+  },
+  {
+    "holiday": "New Year's Day",
+    "date": "1/1/2021",
+    "year": 2021,
+    "bank": "TRUE",
+    "onbserved_on": "1/1/2021"
+  },
+  {
+    "holiday": "Martin Luther King Jr. Day",
+    "date": "1/18/2021",
+    "year": 2021,
+    "bank": "TRUE",
+    "onbserved_on": "1/18/2021"
+  },
+  {
+    "holiday": "Presidents Day",
+    "date": "2/15/2021",
+    "year": 2021,
+    "bank": "TRUE",
+    "onbserved_on": "2/15/2021"
+  },
+  {
+    "holiday": "Memorial Day",
+    "date": "5/31/2021",
+    "year": 2021,
+    "bank": "TRUE",
+    "onbserved_on": "5/31/2021"
+  },
+  {
+    "holiday": "Independence Day",
+    "date": "7/4/2021",
+    "year": 2021,
+    "bank": "TRUE",
+    "onbserved_on": "7/5/2021"
+  },
+  {
+    "holiday": "Labor Day",
+    "date": "9/6/2021",
+    "year": 2021,
+    "bank": "TRUE",
+    "onbserved_on": "9/6/2021"
+  },
+  {
+    "holiday": "Columbus Day",
+    "date": "10/11/2021",
+    "year": 2021,
+    "bank": "TRUE",
+    "onbserved_on": "10/11/2021"
+  },
+  {
+    "holiday": "Veterans Day",
+    "date": "11/11/2021",
+    "year": 2021,
+    "bank": "TRUE",
+    "onbserved_on": "11/11/2021"
+  },
+  {
+    "holiday": "Christmas Day",
+    "date": "12/25/2021",
+    "year": 2021,
+    "bank": "TRUE",
+    "onbserved_on": "12/24/2021"
+  },
+  {
+    "holiday": "New Year's Day",
+    "date": "1/1/2022",
+    "year": 2022,
+    "bank": "TRUE",
+    "onbserved_on": "12/31/2021"
+  },
+  {
+    "holiday": "Martin Luther King Jr. Day",
+    "date": "1/17/2022",
+    "year": 2022,
+    "bank": "TRUE",
+    "onbserved_on": "1/17/2022"
+  },
+  {
+    "holiday": "Presidents Day",
+    "date": "2/21/2022",
+    "year": 2022,
+    "bank": "TRUE",
+    "onbserved_on": "2/21/2022"
+  },
+  {
+    "holiday": "Memorial Day",
+    "date": "5/30/2022",
+    "year": 2022,
+    "bank": "TRUE",
+    "onbserved_on": "5/30/2022"
+  },
+  {
+    "holiday": "Independence Day",
+    "date": "7/4/2022",
+    "year": 2022,
+    "bank": "TRUE",
+    "onbserved_on": "7/4/2022"
+  },
+  {
+    "holiday": "Labor Day",
+    "date": "9/5/2022",
+    "year": 2022,
+    "bank": "TRUE",
+    "onbserved_on": "9/5/2022"
+  },
+  {
+    "holiday": "Columbus Day",
+    "date": "10/10/2022",
+    "year": 2022,
+    "bank": "TRUE",
+    "onbserved_on": "10/10/2022"
+  },
+  {
+    "holiday": "Veterans Day",
+    "date": "11/11/2022",
+    "year": 2022,
+    "bank": "TRUE",
+    "onbserved_on": "11/11/2022"
+  },
+  {
+    "holiday": "Christmas Day",
+    "date": "12/25/2022",
+    "year": 2022,
+    "bank": "TRUE",
+    "onbserved_on": "12/26/2022"
+  },
+  {
+    "holiday": "New Year's Day",
+    "date": "1/1/2023",
+    "year": 2023,
+    "bank": "TRUE",
+    "onbserved_on": "1/2/2023"
+  },
+  {
+    "holiday": "Martin Luther King Jr. Day",
+    "date": "1/16/2023",
+    "year": 2023,
+    "bank": "TRUE",
+    "onbserved_on": "1/16/2023"
+  },
+  {
+    "holiday": "Presidents Day",
+    "date": "2/20/2023",
+    "year": 2023,
+    "bank": "TRUE",
+    "onbserved_on": "2/20/2023"
+  },
+  {
+    "holiday": "Memorial Day",
+    "date": "5/29/2023",
+    "year": 2023,
+    "bank": "TRUE",
+    "onbserved_on": "5/29/2023"
+  },
+  {
+    "holiday": "Independence Day",
+    "date": "7/4/2023",
+    "year": 2023,
+    "bank": "TRUE",
+    "onbserved_on": "7/4/2023"
+  },
+  {
+    "holiday": "Labor Day",
+    "date": "9/4/2023",
+    "year": 2023,
+    "bank": "TRUE",
+    "onbserved_on": "9/4/2023"
+  },
+  {
+    "holiday": "Columbus Day",
+    "date": "10/9/2023",
+    "year": 2023,
+    "bank": "TRUE",
+    "onbserved_on": "10/9/2023"
+  },
+  {
+    "holiday": "Veterans Day",
+    "date": "11/11/2023",
+    "year": 2023,
+    "bank": "TRUE",
+    "onbserved_on": "11/11/2023"
+  },
+  {
+    "holiday": "Christmas Day",
+    "date": "12/25/2023",
+    "year": 2023,
+    "bank": "TRUE",
+    "onbserved_on": "12/25/2023"
+  },
+  {
+    "holiday": "New Year's Day",
+    "date": "1/1/2024",
+    "year": 2024,
+    "bank": "TRUE",
+    "onbserved_on": "1/1/2024"
+  },
+  {
+    "holiday": "Martin Luther King Jr. Day",
+    "date": "1/15/2024",
+    "year": 2024,
+    "bank": "TRUE",
+    "onbserved_on": "1/15/2024"
+  },
+  {
+    "holiday": "Presidents Day",
+    "date": "2/19/2024",
+    "year": 2024,
+    "bank": "TRUE",
+    "onbserved_on": "2/19/2024"
+  },
+  {
+    "holiday": "Memorial Day",
+    "date": "5/27/2024",
+    "year": 2024,
+    "bank": "TRUE",
+    "onbserved_on": "5/27/2024"
+  },
+  {
+    "holiday": "Independence Day",
+    "date": "7/4/2024",
+    "year": 2024,
+    "bank": "TRUE",
+    "onbserved_on": "7/4/2024"
+  },
+  {
+    "holiday": "Labor Day",
+    "date": "9/2/2024",
+    "year": 2024,
+    "bank": "TRUE",
+    "onbserved_on": "9/2/2024"
+  },
+  {
+    "holiday": "Columbus Day",
+    "date": "10/14/2024",
+    "year": 2024,
+    "bank": "TRUE",
+    "onbserved_on": "10/14/2024"
+  },
+  {
+    "holiday": "Veterans Day",
+    "date": "11/11/2024",
+    "year": 2024,
+    "bank": "TRUE",
+    "onbserved_on": "11/11/2024"
+  },
+  {
+    "holiday": "Christmas Day",
+    "date": "12/25/2024",
+    "year": 2024,
+    "bank": "TRUE",
+    "onbserved_on": "12/25/2024"
+  }
+]
+}
