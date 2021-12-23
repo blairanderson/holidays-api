@@ -1,0 +1,12 @@
+{
+  "name": "holidays-api",
+  "version": "1.0.0",
+  "main": "functions/holidays.js",
+  "repository": "git@github.com:blairanderson/holidays-api.git",
+  "author": "Blair Anderson <blair81@gmail.com>",
+  "license": "PRIVATE",
+  "private": true,
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
