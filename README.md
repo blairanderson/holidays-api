@@ -1,4 +1,7 @@
-# holidays-api [CSV](https://github.com/blairanderson/holidays-api/blob/master/holiday-data.csv) [JSON](https://github.com/blairanderson/holidays-api/blob/master/holiday-data.json)
+# holidays-api
+
+- [CSV](https://github.com/blairanderson/holidays-api/blob/master/holiday-data.csv)
+- [JSON](https://github.com/blairanderson/holidays-api/blob/master/holiday-data.json)
 
 ## US Holiday Resources
 
