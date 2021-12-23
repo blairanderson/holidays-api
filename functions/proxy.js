@@ -1,9 +1,9 @@
-const fetch = require("node-fetch");
+import fetch from "node-fetch"
 
 const API_ENDPOINT = `https://holidayapi.com/v1/holidays?pretty&key=${process.env.HOLIDAY_KEY}&country=AD`;
 
 exports.handler = async (event, context) => {
-  const thisYear = new Date().getFullYear()
+  const thisYear = new Date().getFullYear();
   const validYears = [
     thisYear - 1,
     thisYear,
