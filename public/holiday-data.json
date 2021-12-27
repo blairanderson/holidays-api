@@ -1,0 +1,334 @@
+{
+    "holidays": [
+        {
+            "name": "New Year's Day",
+            "prettyDate": "2021-01-01",
+            "dayOfWeek": "Friday",
+            "observedOn": "2021-01-01"
+        },
+        {
+            "name": "Birthday of Martin Luther King, Jr.",
+            "prettyDate": "2021-01-18",
+            "dayOfWeek": "Monday",
+            "observedOn": "2021-01-18"
+        },
+        {
+            "name": "Washington's Birthday",
+            "prettyDate": "2021-02-15",
+            "dayOfWeek": "Monday",
+            "observedOn": "2021-02-15"
+        },
+        {
+            "name": "Memorial Day",
+            "prettyDate": "2021-05-31",
+            "dayOfWeek": "Monday",
+            "observedOn": "2021-05-31"
+        },
+        {
+            "name": "Juneteenth National Independence Day",
+            "prettyDate": "2021-06-19",
+            "dayOfWeek": "Saturday",
+            "observedOn": "2021-06-18"
+        },
+        {
+            "name": "Independence Day",
+            "prettyDate": "2021-07-04",
+            "dayOfWeek": "Sunday",
+            "observedOn": "2021-07-05"
+        },
+        {
+            "name": "Labor Day",
+            "prettyDate": "2021-09-06",
+            "dayOfWeek": "Monday",
+            "observedOn": "2021-09-06"
+        },
+        {
+            "name": "Columbus Day",
+            "prettyDate": "2021-10-11",
+            "dayOfWeek": "Monday",
+            "observedOn": "2021-10-11"
+        },
+        {
+            "name": "Veterans Day",
+            "prettyDate": "2021-11-11",
+            "dayOfWeek": "Thursday",
+            "observedOn": "2021-11-11"
+        },
+        {
+            "name": "Thanksgiving Day",
+            "prettyDate": "2021-11-25",
+            "dayOfWeek": "Thursday",
+            "observedOn": "2021-11-25"
+        },
+        {
+            "name": "Christmas Day",
+            "prettyDate": "2021-12-25",
+            "dayOfWeek": "Saturday",
+            "observedOn": "2021-12-24"
+        },
+        {
+            "name": "New Year's Day",
+            "prettyDate": "2022-01-01",
+            "dayOfWeek": "Saturday",
+            "observedOn": "2021-12-31"
+        },
+        {
+            "name": "Birthday of Martin Luther King, Jr.",
+            "prettyDate": "2022-01-17",
+            "dayOfWeek": "Monday",
+            "observedOn": "2022-01-17"
+        },
+        {
+            "name": "Washington's Birthday",
+            "prettyDate": "2022-02-21",
+            "dayOfWeek": "Monday",
+            "observedOn": "2022-02-21"
+        },
+        {
+            "name": "Memorial Day",
+            "prettyDate": "2022-05-30",
+            "dayOfWeek": "Monday",
+            "observedOn": "2022-05-30"
+        },
+        {
+            "name": "Juneteenth National Independence Day",
+            "prettyDate": "2022-06-19",
+            "dayOfWeek": "Sunday",
+            "observedOn": "2022-06-20"
+        },
+        {
+            "name": "Independence Day",
+            "prettyDate": "2022-07-04",
+            "dayOfWeek": "Monday",
+            "observedOn": "2022-07-04"
+        },
+        {
+            "name": "Labor Day",
+            "prettyDate": "2022-09-05",
+            "dayOfWeek": "Monday",
+            "observedOn": "2022-09-05"
+        },
+        {
+            "name": "Columbus Day",
+            "prettyDate": "2022-10-10",
+            "dayOfWeek": "Monday",
+            "observedOn": "2022-10-10"
+        },
+        {
+            "name": "Veterans Day",
+            "prettyDate": "2022-11-11",
+            "dayOfWeek": "Friday",
+            "observedOn": "2022-11-11"
+        },
+        {
+            "name": "Thanksgiving Day",
+            "prettyDate": "2022-11-24",
+            "dayOfWeek": "Thursday",
+            "observedOn": "2022-11-24"
+        },
+        {
+            "name": "Christmas Day",
+            "prettyDate": "2022-12-25",
+            "dayOfWeek": "Sunday",
+            "observedOn": "2022-12-26"
+        },
+        {
+            "name": "New Year's Day",
+            "prettyDate": "2023-01-01",
+            "dayOfWeek": "Sunday",
+            "observedOn": "2023-01-02"
+        },
+        {
+            "name": "Birthday of Martin Luther King, Jr.",
+            "prettyDate": "2023-01-16",
+            "dayOfWeek": "Monday",
+            "observedOn": "2023-01-16"
+        },
+        {
+            "name": "Washington's Birthday",
+            "prettyDate": "2023-02-20",
+            "dayOfWeek": "Monday",
+            "observedOn": "2023-02-20"
+        },
+        {
+            "name": "Memorial Day",
+            "prettyDate": "2023-05-29",
+            "dayOfWeek": "Monday",
+            "observedOn": "2023-05-29"
+        },
+        {
+            "name": "Juneteenth National Independence Day",
+            "prettyDate": "2023-06-19",
+            "dayOfWeek": "Monday",
+            "observedOn": "2023-06-19"
+        },
+        {
+            "name": "Independence Day",
+            "prettyDate": "2023-07-04",
+            "dayOfWeek": "Tuesday",
+            "observedOn": "2023-07-04"
+        },
+        {
+            "name": "Labor Day",
+            "prettyDate": "2023-09-04",
+            "dayOfWeek": "Monday",
+            "observedOn": "2023-09-04"
+        },
+        {
+            "name": "Columbus Day",
+            "prettyDate": "2023-10-09",
+            "dayOfWeek": "Monday",
+            "observedOn": "2023-10-09"
+        },
+        {
+            "name": "Veterans Day",
+            "prettyDate": "2023-11-11",
+            "dayOfWeek": "Saturday",
+            "observedOn": "2023-11-10"
+        },
+        {
+            "name": "Thanksgiving Day",
+            "prettyDate": "2023-11-23",
+            "dayOfWeek": "Thursday",
+            "observedOn": "2023-11-23"
+        },
+        {
+            "name": "Christmas Day",
+            "prettyDate": "2023-12-25",
+            "dayOfWeek": "Monday",
+            "observedOn": "2023-12-25"
+        },
+        {
+            "name": "New Year's Day",
+            "prettyDate": "2024-01-01",
+            "dayOfWeek": "Monday",
+            "observedOn": "2024-01-01"
+        },
+        {
+            "name": "Birthday of Martin Luther King, Jr.",
+            "prettyDate": "2024-01-15",
+            "dayOfWeek": "Monday",
+            "observedOn": "2024-01-15"
+        },
+        {
+            "name": "Washington's Birthday",
+            "prettyDate": "2024-02-19",
+            "dayOfWeek": "Monday",
+            "observedOn": "2024-02-19"
+        },
+        {
+            "name": "Memorial Day",
+            "prettyDate": "2024-05-27",
+            "dayOfWeek": "Monday",
+            "observedOn": "2024-05-27"
+        },
+        {
+            "name": "Juneteenth National Independence Day",
+            "prettyDate": "2024-06-19",
+            "dayOfWeek": "Wednesday",
+            "observedOn": "2024-06-19"
+        },
+        {
+            "name": "Independence Day",
+            "prettyDate": "2024-07-04",
+            "dayOfWeek": "Thursday",
+            "observedOn": "2024-07-04"
+        },
+        {
+            "name": "Labor Day",
+            "prettyDate": "2024-09-02",
+            "dayOfWeek": "Monday",
+            "observedOn": "2024-09-02"
+        },
+        {
+            "name": "Columbus Day",
+            "prettyDate": "2024-10-14",
+            "dayOfWeek": "Monday",
+            "observedOn": "2024-10-14"
+        },
+        {
+            "name": "Veterans Day",
+            "prettyDate": "2024-11-11",
+            "dayOfWeek": "Monday",
+            "observedOn": "2024-11-11"
+        },
+        {
+            "name": "Thanksgiving Day",
+            "prettyDate": "2024-11-28",
+            "dayOfWeek": "Thursday",
+            "observedOn": "2024-11-28"
+        },
+        {
+            "name": "Christmas Day",
+            "prettyDate": "2024-12-25",
+            "dayOfWeek": "Wednesday",
+            "observedOn": "2024-12-25"
+        },
+        {
+            "name": "New Year's Day",
+            "prettyDate": "2025-01-01",
+            "dayOfWeek": "Wednesday",
+            "observedOn": "2025-01-01"
+        },
+        {
+            "name": "Birthday of Martin Luther King, Jr.",
+            "prettyDate": "2025-01-20",
+            "dayOfWeek": "Monday",
+            "observedOn": "2025-01-20"
+        },
+        {
+            "name": "Washington's Birthday",
+            "prettyDate": "2025-02-17",
+            "dayOfWeek": "Monday",
+            "observedOn": "2025-02-17"
+        },
+        {
+            "name": "Memorial Day",
+            "prettyDate": "2025-05-26",
+            "dayOfWeek": "Monday",
+            "observedOn": "2025-05-26"
+        },
+        {
+            "name": "Juneteenth National Independence Day",
+            "prettyDate": "2025-06-19",
+            "dayOfWeek": "Thursday",
+            "observedOn": "2025-06-19"
+        },
+        {
+            "name": "Independence Day",
+            "prettyDate": "2025-07-04",
+            "dayOfWeek": "Friday",
+            "observedOn": "2025-07-04"
+        },
+        {
+            "name": "Labor Day",
+            "prettyDate": "2025-09-01",
+            "dayOfWeek": "Monday",
+            "observedOn": "2025-09-01"
+        },
+        {
+            "name": "Columbus Day",
+            "prettyDate": "2025-10-13",
+            "dayOfWeek": "Monday",
+            "observedOn": "2025-10-13"
+        },
+        {
+            "name": "Veterans Day",
+            "prettyDate": "2025-11-11",
+            "dayOfWeek": "Tuesday",
+            "observedOn": "2025-11-11"
+        },
+        {
+            "name": "Thanksgiving Day",
+            "prettyDate": "2025-11-27",
+            "dayOfWeek": "Thursday",
+            "observedOn": "2025-11-27"
+        },
+        {
+            "name": "Christmas Day",
+            "prettyDate": "2025-12-25",
+            "dayOfWeek": "Thursday",
+            "observedOn": "2025-12-25"
+        }
+    ]
+}
