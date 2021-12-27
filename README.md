@@ -1,8 +1,19 @@
-# holidays-api
+# Simple Holidays API
 
-- [CSV](https://github.com/blairanderson/holidays-api/blob/master/holiday-data.csv)
-- [JSON](https://github.com/blairanderson/holidays-api/blob/master/holiday-data.json)
+[https://holidayapi.netlify.app/](https://holidayapi.netlify.app/)
+
 
 ## US Holiday Resources
 
-- https://www.federalreserve.gov/aboutthefed/k8.htm - [Google Docs](https://docs.google.com/spreadsheets/d/15oTB3jTVdRYW-oTALPVXmZXVITDj6wJgPhSMmMhSw8o)
+- https://www.federalreserve.gov/aboutthefed/k8.htm
+
+### `parse.js`
+
+Scrapes the federal-reserve website for holiday data, and does some light formatting.
+
+
+### `filterDates.js`
+
+Return all holidays that are AROUND today, within `N` number of days.
+
+`filterDates(holidays, 'prettyDate', 7)`
